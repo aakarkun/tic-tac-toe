@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic Tac Toe Game made by React JS.
+Tic Tac Toe Game - React JS.
